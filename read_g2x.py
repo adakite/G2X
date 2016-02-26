@@ -9,7 +9,6 @@ __author__ = "Antoine Lucas"
 __copyright__ = "Copyright 2016, Antoine Lucas"
 __license__ = "GPL"
 __version__ = "0.0.1"
-__email__ = "dralucas@astrogeophysx.net"
 __status__ = "Prototype"
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 import csv
